@@ -8,7 +8,6 @@
     Scanner scan = new Scanner(System.in);
 
 
-
     void main(){
     // Bakkal Amca
     boolean isRunning = true;
